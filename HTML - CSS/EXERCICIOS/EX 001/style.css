@@ -1,0 +1,12 @@
+h1 {
+    font-family: Arial;
+    font-size: 25pt;
+    color: lightcoral;
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    border-color: aqua;
+}
